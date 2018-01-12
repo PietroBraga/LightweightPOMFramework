@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "Framework\Framework.csproj", "{9C40A73A-FEA9-440E-AF00-D256035A416A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QtpTests", "QtpTests\QtpTests.csproj", "{618E9E23-C04C-40B7-8F63-554DA1C3241E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C40A73A-FEA9-440E-AF00-D256035A416A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C40A73A-FEA9-440E-AF00-D256035A416A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C40A73A-FEA9-440E-AF00-D256035A416A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C40A73A-FEA9-440E-AF00-D256035A416A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618E9E23-C04C-40B7-8F63-554DA1C3241E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618E9E23-C04C-40B7-8F63-554DA1C3241E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618E9E23-C04C-40B7-8F63-554DA1C3241E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618E9E23-C04C-40B7-8F63-554DA1C3241E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
